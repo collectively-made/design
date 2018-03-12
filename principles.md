@@ -1,7 +1,4 @@
-# Principles
-### Creating meaniful work through values
-
----
+# Principles for creating meaniful work through values
 
 ### Collaboration over cooperation
 When collaborating, people work together (co-labor) on a single shared goal. When cooperating, people perform together (co-operate) while working on selfish yet common goals. Solitary work is necessary, but collaboration spurs innovation and diversity of thought as well as ideas.
